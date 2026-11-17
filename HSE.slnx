@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HSE/HSE.vcxproj" Id="1da6a256-80c6-4f45-9d84-7d9059e6d782" />
+</Solution>
